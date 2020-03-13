@@ -15,6 +15,8 @@ RDEPEND="
 	app-editors/vim
 	app-misc/screen
 	app-portage/layman[git,sync-plugin-portage]
+	app-shells/zsh
+	app-text/tree
 	app-vim/gentoo-syntax
 	dev-vcs/git
 	net-misc/dhcpcd
