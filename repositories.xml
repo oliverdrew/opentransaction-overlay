@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE repositories SYSTEM "/dtd/repositories.dtd">
+<repositories version="1.0">
+  <repo priority="50" quality="experimental" status="unofficial">
+    <name>opentransaction-overlay</name>
+    <description>Personal packages containing virtuals for servers and personal projects.</description>
+    <homepage>https://github.com/oliverdrew/opentransaction-overlay</homepage>
+    <owner type="person">
+      <email>oliver.drew@gmail.com</email>
+      <name><![CDATA[Oliver Drew]]></name>
+    </owner>
+    <source type="git">git://github.com/oliverdrew/opentransaction-overlay.git</source>
+    <feed>https://github.com/oliverdrew/opentransaction-overlay/commits/master.atom</feed>
+  </repo>
+</repositories>
