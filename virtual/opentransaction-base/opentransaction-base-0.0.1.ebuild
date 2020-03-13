@@ -5,7 +5,7 @@ EAPI=7
 
 DESCRIPTION="Virtual that applies to all my Gentoo systems"
 SLOT="0"
-KEYWORDS="~amd64 ~x86"
+KEYWORDS="amd64 ~x86"
 IUSE="git sync-plugin-portage"
 
 RDEPEND="
