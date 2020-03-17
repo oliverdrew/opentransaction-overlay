@@ -2,7 +2,7 @@
 
 Contains my Gentoo portage overlay, including virtual packages for servers, and eventually, personal projects.
 
-##virtual/opentransaction-base
+## virtual/opentransaction-base
 This virtual ebuild wraps up all the basic packages I install to setup a gentoo system into one.
 
 ### Post Installation Steps
