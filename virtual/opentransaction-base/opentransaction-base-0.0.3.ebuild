@@ -12,6 +12,7 @@ RDEPEND="
 	app-admin/logrotate
 	app-admin/sysklogd
 	app-admin/sudo
+	app-antivirus/clamav
 	app-editors/vim
 	app-misc/screen
 	app-portage/layman[git,sync-plugin-portage]
